@@ -1,0 +1,3 @@
+[submodule "simple_web_api"]
+	path	= /files/src
+	url	= git@github.com:oscarandres/simple_web_api.git
